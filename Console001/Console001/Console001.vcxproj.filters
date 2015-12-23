@@ -24,6 +24,9 @@
     <ClInclude Include="resource.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="Cdata.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="app.rc">
@@ -38,6 +41,9 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Cdata.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
